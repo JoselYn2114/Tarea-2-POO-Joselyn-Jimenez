@@ -1,4 +1,4 @@
-/*import java.util.Random;
+import java.util.Random;
 
 
 public class Dado { //clase dado
@@ -16,4 +16,5 @@ public class Dado { //clase dado
 		Random r = new Random();
 		return r.nextInt (1 + this.caras);
 	}
-*/ 
+
+}
